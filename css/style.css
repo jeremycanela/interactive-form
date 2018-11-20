@@ -98,6 +98,7 @@ input, select, button {
 
 input:focus {
 	background: #fff;
+	color: #2f2f2f;
 	border-color: #5e97b0;
 	transition: border-color .4s, background-color .4s;
 }
